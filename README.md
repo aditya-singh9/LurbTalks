@@ -4,7 +4,7 @@ Hello everyone
 
 This is a node js based project.
 
-LurbTalks is a free video chatting website made using socket.io and node js
+LurbTalks is a free video calling website made using socket.io and node js.
 
 
 #To run my project locally on your computer
