@@ -7,7 +7,7 @@ This is a node js based project.
 LurbTalks is a free video calling website made using socket.io and node js.
 
 
-#To run my project locally on your computer
+## To run my project locally on your computer
 
 First download my repository and extract it
 then run command "npm i".
