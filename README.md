@@ -19,4 +19,8 @@ then run command "npm i".
  Now you can see the website
  
 
-LIVE LINK-  https://lurbtalks.herokuapp.com
+LIVE LINK-  `https://lurbtalks.herokuapp.com`
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
