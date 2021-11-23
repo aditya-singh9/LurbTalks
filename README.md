@@ -6,6 +6,8 @@ This is a node js based project.
 
 LurbTalks is a free video calling website made using socket.io and node js.
 
+# Fix error
+-[ ] When user leaves the meet, remove the video of that user.
 
 ## To run my project locally on your computer
 
